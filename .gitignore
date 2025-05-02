@@ -1,1 +1,5 @@
-.ipynb_checkpoints"emails.csv" 
+.ipynb_checkpoints/
+emails.csv
+venv/
+.gradio/
+deploy/
